@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I’m Kaijie 👋
 
-<!--
-**NJie94/NJie94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm a Software Engineer
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- Trip-planning tools with Angular/Electron
+- Industrial automation & ML for anomaly detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m learning
+- AI/ML
+
+## 💻 Featured Projects
+
+- **[TripsMate App](https://www.tripsmate.app/)**  
+  A smart trip-planning web application with interactive maps, recommendations, and collaborative itineraries.
+
+### 📫 How to reach me
+- 🔗 [LinkedIn](https://linkedin.com/in/kai-jie-hi/)
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”*
